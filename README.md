@@ -1,6 +1,6 @@
 # Book Recommender System
 
-Welcome to the **Book Recommender System**! This is an interactive and user-friendly web application designed to help users discover new books they might enjoy. With a clean, modern design and responsive UI, users can easily search for books and receive personalized recommendations.
+Welcome to the **Book Recommender System**! This is an interactive and user-friendly web application deployed on render. It is designed to help users discover new books they might enjoy. With a clean, modern design and responsive UI, users can easily search for books and receive personalized recommendations. Do check out the deployed website!
 
 ## 🚀 **About the Project**
 The Book Recommender System is built to suggest books based on two key recommendation techniques:
@@ -43,6 +43,6 @@ Check out the demo video showcasing how the app works and the different features
 - **Frontend**: HTML, CSS (with Bootstrap), JavaScript
 - **Backend**: Flask (Python framework)
 - **Data Handling**: Pandas, Numpy, and Scikit-Learn for collaborative filtering
-- **Database**: Data loaded from the Kaggle dataset
+- **Deployment**: Used Render services to deploy the project
 
 ---
